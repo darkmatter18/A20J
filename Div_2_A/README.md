@@ -5,4 +5,6 @@
 3. [String Task](./string_task_118_a.cpp)
 4. [Petya and Strings](./petya_and_strings_112_a.cpp)
 5. [Helpful Maths](./helpful_maths_339_a.cpp)
+6. [Twins](...)
 7. [Chat room](./chat_room_58_a.cpp)
+8. [Lucky Division](./lucky_division_122_a.cpp)
