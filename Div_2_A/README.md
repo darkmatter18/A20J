@@ -14,7 +14,7 @@
 12.
 13.
 14.
-15. [Young Physicist]()
+15. [Young Physicist](./young_physicist_69_a.cpp)
 16.
 17.
 18. [Anton and Letters](./anton_and_letters_443_a.cpp)
